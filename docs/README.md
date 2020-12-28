@@ -1,70 +1,17 @@
-# js
+# JavaScript指南
 
-[深入系列、专题系列、underscore 系列、ES6 系列](https://github.com/mqyqingfeng?tab=repositories)
+语法与数据类型
+控制流与错误处理
+循环与迭代
+函数
+表达式与运算符
+数字与日期
+索引集合
+带键集合
+处理对象
+对象模型的细节
+Promises
+迭代器与生成器
+元编程
+JavaScript模块
 
-#### JavaScript专题
-
-JavaScript专题之跟着underscore学防抖
-JavaScript专题之跟着underscore学节流
-JavaScript专题之数组去重
-JavaScript专题之类型判断(上)
-JavaScript专题之类型判断(下)
-JavaScript专题之深浅拷贝
-JavaScript专题之从零实现jQuery的extend
-JavaScript专题之如何求数组的最大值和最小值
-JavaScript专题之数组扁平化
-JavaScript专题之学underscore在数组中查找指定元素
-JavaScript专题之jQuery通用遍历方法each的实现
-JavaScript专题之如何判断两个对象相等
-JavaScript专题之函数柯里化
-JavaScript专题之偏函数
-JavaScript专题之惰性函数
-JavaScript专题之函数组合
-JavaScript专题之函数记忆
-JavaScript专题之递归
-JavaScript专题之乱序
-JavaScript专题之解读 v8 排序源码
-JavaScript专题系列20篇正式完结！
-JavaScript专题之花式表示26个字母
-
-#### JavaScirpt深入
-
-JavaScirpt深入之从原型到原型链
-JavaScript深入之词法作用域和动态作用域
-JavaScript深入之执行上下文栈
-JavaScript深入之变量对象
-JavaScript深入之作用域链
-JavaScript深入之从ECMAScript规范解读this
-JavaScript深入之执行上下文
-JavaScript深入之闭包
-JavaScript深入之参数按值传递
-JavaScript深入之call和apply的模拟实现
-JavaScript深入之bind的模拟实现
-JavaScript深入之new的模拟实现
-JavaScript深入之类数组对象与arguments
-JavaScript深入之创建对象的多种方式以及优缺点
-JavaScript深入之继承的多种方式以及优缺点
-JavaScript深入系列15篇正式完结！
-JavaScript深入之浮点数精度
-JavaScript深入之头疼的类型转换(上)
-JavaScript深入之头疼的类型转换(下)
-
-eventLoop
-
-Promise
-
-async await
-
-异常处理
-
-插件机制
-
-设计模式
-
-算法
-
-webpack
-
-框架
-
-性能
