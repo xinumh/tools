@@ -1,5 +1,15 @@
 # 手写
 
+改变this指向
+``` js
+function bindThis(f, oTarget) {
+    return f.bind(oTarget)
+    //return function () {
+    //    return f.apply(oTarget, arguments)
+    //}
+}
+```
+
 手写发布订阅模式
 
 模拟new操作符
