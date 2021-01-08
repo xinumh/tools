@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>demo</title>
+</head>
+<body>
+  <h1>String.prototype.replace()</h1>
+  <script>
+    const p = 'The quick brown fox jumps over the lazy dog. If the dog reacted, was it really lazy'
+    const new_p = p.replace('dog', 'XXXXXX')
+    console.log('new_p', new_p)
+
+    const regex = /dog/g
+
+    const new_p_regex = p.replace(regex, 'AAAAAA')
+    console.log('new_p_regex', new_p_regex)
+
+    const new_p_func = p.replace(regex, function(_, c){
+      console.log('arguments', arguments)
+      console.log('_', _)
+      console.log('a', c)
+    })
+
+     /**
+   * Camelize a hyphen-delimited string.
+   * 转换为驼峰格式
+   */
+  var camelizeRE = /-(\w)/g;
+  var camelize = function (str) {
+    return str.replace(camelizeRE, function (_, c) { console.log('arguments', arguments)})
+  };
+  console.log(1, camelize('font-size')) 
+  </script>
+</body>
+</html>

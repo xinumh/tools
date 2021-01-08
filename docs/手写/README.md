@@ -60,6 +60,29 @@ Function.prototype.call()
 
 Function.prototype.bind()
 
+String.prottype.replace()
+
+> str.replace(regexp|substr, newSubStr|function)
+
+regexp (pattern) 正则匹配，匹配内容被第二个参数的返回值替换
+
+substr (pattern) 一个将被 newSubStr 替换的 字符串,仅第一个匹配项被替换
+
+newSubStr (replacement) 新字符串，可以内插特殊[变量名](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+
+function (replacement) 返回新字符串的函数，正则全局匹配会多次调用函数,如果正则有多个括号，则参数代表第n个括号匹配的字符串。
+
+```js
+ /**
+   * 转换为驼峰格式
+   */
+  var camelize = function (str) {
+    // c为匹配到的（\w）
+    return str.replace(/-(\w)/g, function (_, c) { return c ? c.toUpperCase() : ''; })
+  };
+
+```
+
 函数珂里化
 
 instanceof
