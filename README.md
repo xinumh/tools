@@ -17,3 +17,5 @@ GitHub 上有趣、入门级的开源项目
 [String.prottype.replace()](docs/手写/README.md#String.prottype.replace)
 
 [Number.prototype.toString()](docs/手写/README.md#Number.prototype.toString)
+
+<a name="Number.prototype.toString()">Number.prototype.toString()</a>
