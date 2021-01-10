@@ -60,7 +60,7 @@ Function.prototype.call()
 
 Function.prototype.bind()
 
-### String.prottype.replace()
+### String.prottype.replace
 
 > str.replace(regexp|substr, newSubStr|function)
 
@@ -83,7 +83,7 @@ function (replacement) 返回新字符串的函数，正则全局匹配会多次
 
 ```
 
-### Number.prototype.toString()
+### Number.prototype.toString
 
 > numObj.toString([radix])
 
