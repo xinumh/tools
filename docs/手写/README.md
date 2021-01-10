@@ -60,7 +60,7 @@ Function.prototype.call()
 
 Function.prototype.bind()
 
-String.prottype.replace()
+### String.prottype.replace()
 
 > str.replace(regexp|substr, newSubStr|function)
 
@@ -80,6 +80,34 @@ function (replacement) 返回新字符串的函数，正则全局匹配会多次
     // c为匹配到的（\w）
     return str.replace(/-(\w)/g, function (_, c) { return c ? c.toUpperCase() : ''; })
   };
+
+```
+
+### Number.prototype.toString()
+
+> numObj.toString([radix])
+
+`radix`指定要用于数字到字符串的转换的基数(从2到36)。如果未指定 radix 参数，则默认值为 10。
+
+```js
+function rgb2hex(sRGB) {
+    const rgbRegex = /^rgb\((\s*\d+\s*\,){2}(\s*\d+\s*)\)$/
+    const numList = sRGB.match(/\d+/g)
+    if(rgbRegex.test(sRGB)) {
+        let str = '#'
+        for(let i=0; i< numList.length;i++) {
+            const num = Number(numList[i])
+            if (num <= 255 && num >= 0) {
+                // Number.prototype.toString()
+                str += num < 16 ? '0' + num.toString(16) : num.toString(16)
+            }
+        }
+        return str
+    } else {
+        return sRGB
+    }
+}
+rgb2hex('rgb(255, 255, 255)') // #ffffff
 
 ```
 
