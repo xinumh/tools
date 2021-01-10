@@ -13,3 +13,7 @@ GitHub 上有趣、入门级的开源项目
 [改变this指向](docs/手写/README.md#改变this指向)
 
 [查找两个节点的最近的共同父节点](docs/手写/README.md#查找两个节点的最近的共同父节点)
+
+[String.prottype.replace()](docs/手写/README.md#String.prottype.replace())
+
+[Number.prototype.toString()](docs/手写/README.md#Number.prototype.toString())
