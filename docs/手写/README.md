@@ -100,7 +100,10 @@ Function.prototype.bind()
 `endIndex`在该索引处结束提取字符串，省略参数则提取到字符串末尾；为负，则看作 `strLength + beginIndex`
 
 [实例](#按所给的时间格式输出指定的时间)
-
+```js
+new Date('2021').getFullYear().toString().slice(-2) // 21
+('0' + (new Date('2021-01').getMonth() + 1)).slice(-2) // 01
+```
 
 ### String.prottype.replace
 
