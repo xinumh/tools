@@ -94,8 +94,10 @@ Function.prototype.bind()
 ### String.prototype.slice()
 
 > str.slice(beginIndex[, endIndex])
-> `beginIndex` 以该索引（0为基数）开始提取原字符串中的字符；为负，则看作 `strLength + beginIndex`
-> `endIndex`在该索引处结束提取字符串，省略参数则提取到字符串末尾；为负，则看作 `strLength + beginIndex`
+
+`beginIndex` 以该索引（0为基数）开始提取原字符串中的字符；为负，则看作 `strLength + beginIndex`
+
+`endIndex`在该索引处结束提取字符串，省略参数则提取到字符串末尾；为负，则看作 `strLength + beginIndex`
 
 [实例](#按所给的时间格式输出指定的时间)
 
@@ -104,13 +106,13 @@ Function.prototype.bind()
 
 > str.replace(regexp|substr, newSubStr|function)
 
-regexp (pattern) 正则匹配，匹配内容被第二个参数的返回值替换
+`regexp` (pattern) 正则匹配，匹配内容被第二个参数的返回值替换
 
-substr (pattern) 一个将被 newSubStr 替换的 字符串,仅第一个匹配项被替换
+`substr` (pattern) 一个将被 newSubStr 替换的 字符串,仅第一个匹配项被替换
 
-newSubStr (replacement) 新字符串，可以内插特殊[变量名](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+`newSubStr` (replacement) 新字符串，可以内插特殊[变量名](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 
-function (replacement) 返回新字符串的函数，正则全局匹配会多次调用函数,如果正则有多个括号，则参数代表第n个括号匹配的字符串。
+`function` (replacement) 返回新字符串的函数，正则全局匹配会多次调用函数,如果正则有多个括号，则参数代表第n个括号匹配的字符串。
 
 ```js
  /**
