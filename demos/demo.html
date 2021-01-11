@@ -29,9 +29,15 @@
    */
   var camelizeRE = /-(\w)/g;
   var camelize = function (str) {
-    return str.replace(camelizeRE, function (_, c) { console.log('arguments', arguments)})
+    return str.replace(camelizeRE, function (_, c, index) {
+      if(index === 0) {
+        return c
+      } else {
+        return c ? c.toUpperCase() : ''
+      }
+    })
   };
-  console.log(1, camelize('font-size')) 
+  console.log(1, camelize('-font-size')) 
   </script>
 </body>
 </html>
