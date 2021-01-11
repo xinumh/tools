@@ -91,6 +91,15 @@ Function.prototype.call()
 
 Function.prototype.bind()
 
+### String.prototype.slice()
+
+> str.slice(beginIndex[, endIndex])
+> `beginIndex` 以该索引（0为基数）开始提取原字符串中的字符；为负，则看作 `strLength + beginIndex`
+> `endIndex`在该索引处结束提取字符串，省略参数则提取到字符串末尾；为负，则看作 `strLength + beginIndex`
+
+[实例](#按所给的时间格式输出指定的时间)
+
+
 ### String.prottype.replace
 
 > str.replace(regexp|substr, newSubStr|function)
