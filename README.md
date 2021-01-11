@@ -20,4 +20,4 @@ GitHub 上有趣、入门级的开源项目
 
 [按所给的时间格式输出指定的时间](docs/手写/README.md#按所给的时间格式输出指定的时间)
 
-[正则-isAvailableEmail](docs/常用正则/README.md#isAvailableEmail)
+[正则-isAvailableEmail](docs/常见正则/README.md#isAvailableEmail)
