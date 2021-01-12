@@ -47,6 +47,8 @@ function getUrlParam(sUrl, sKey) {
         return obj[sKey] || ''
     }
 }
+```
+
 ### 按所给的时间格式输出指定的时间
 
 ```js
