@@ -22,6 +22,33 @@ function commonParentNode(oNode1, oNode2) {
     if(oNode2.parentNode) { return commonParentNode(oNode2.parentNode, oNode1) }
 }
 ```
+
+### 获取url中的参数
+```js
+/**
+ * 获取 url 中的参数
+ * 1. 指定参数名称，返回该参数的值 或者 空字符串
+ * 2. 不指定参数名称，返回全部的参数对象 或者 {}
+ * 3. 如果存在多个同名参数，则返回数组
+ **/
+function getUrlParam(sUrl, sKey) {
+    const obj = {}
+    sUrl.replace(/\??(\w+)=(\w+)&?/g, function(_, k, v){
+        if(obj[k] !== void(0)) {
+            let t = obj[k]
+            obj[k] = [].concat(t,v)
+        } else {
+            obj[k] = v
+        }
+    })
+    if(sKey === void(0)) {
+        return obj
+    } else {
+        return obj[sKey] || ''
+    }
+}
+```
+
 手写发布订阅模式
 
 模拟new操作符
@@ -45,6 +72,22 @@ Promise
 类数组转化为数组
 
 深拷贝
+
+### Array.prototype.concat()
+
+> var new_array = old_array.concat(value1[, value2[, ...[, valueN]]])
+
+`valueN`(可选)：数组/值，省略参数返回调用concat的数组的一个浅拷贝。
+
+```js
+const arr1 = [1, 2]
+const arr2 = [3, 4]
+const arr_new = arr1.concat(arr2)
+
+console.log(arr1) // [1, 2]
+console.log(arr_new) // [1, 2, 3, 4]
+```
+
 
 Array.prototype.filter()
 

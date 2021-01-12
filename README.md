@@ -18,3 +18,4 @@ GitHub 上有趣、入门级的开源项目
 
 [Number.prototype.toString()](docs/手写/README.md#Number.prototype.toString())
 
+[获取url中的参数](docs/手写/README.md#获取url中的参数)

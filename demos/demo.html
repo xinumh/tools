@@ -38,6 +38,34 @@
     })
   };
   console.log(1, camelize('-font-size')) 
+  Array.prototype.uniq = function () {
+    // return [...new Set(this)]
+    let arr = []
+    let flag = true
+    
+    for (let i = 0; i < this.length; i ++) {
+        if (arr.indexOf(this[i]) === -1) {
+            if (this[i] !== this[i]) {
+                if (flag) {
+                    arr.push(this[i])
+                    flag = false
+                } 
+            } else {
+                arr.push(this[i])
+            }
+        }
+    }
+    return arr
+}
+
+new Array([false, true, undefined, null, NaN, 0, 1, {}, {}, 'a', 'a', NaN]).uniq()
+
+'http://www.nowcoder.com?key=1&key=2&key=3&test=4#hehe key'.replace(/\??(\w+)=(\w+)&?/g, function(_, k, v){
+    console.log("_", _)
+    console.log("k", k)
+    console.log('v', v)
+})
+console.log('11', 11)
   </script>
 </body>
 </html>
