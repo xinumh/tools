@@ -47,6 +47,34 @@ function getUrlParam(sUrl, sKey) {
         return obj[sKey] || ''
     }
 }
+### 按所给的时间格式输出指定的时间
+
+```js
+function formatDate(t, str) {
+    const obj = {
+        yyyy: t.getFullYear(),
+        yy: t.getFullYear().toString().slice(-2),
+        MM: ('0' + (t.getMonth() + 1)).slice(-2),
+        M: t.getMonth() + 1,
+        dd: ('0' + t.getDate()).slice(-2),
+        d: t.getDate(),
+        HH: ('0' + t.getHours()).slice(-2),
+        H: t.getHours(),
+        hh: ('0' + t.getHours() % 12).slice(-2),
+        h: t.getHours() % 12,
+        mm: ('0' + t.getMinutes()).slice(-2),
+        m: t.getMinutes(),
+        ss: ('0' + t.getSeconds()).slice(-2),
+        s: t.getSeconds(),
+        w: ['日','一', '二', '三', '四', '五', '六'][t.getDay()]
+    }
+    return str.replace(/([a-z]+)/ig, (s) => {
+        return obj[s]
+    })
+}
+
+formatDate(new Date(1409894060000), 'yyyy-MM-dd HH:mm:ss 星期w')
+// "2014-09-05 13:14:20 星期五"
 ```
 
 手写发布订阅模式
@@ -103,17 +131,31 @@ Function.prototype.call()
 
 Function.prototype.bind()
 
+### String.prototype.slice()
+
+> str.slice(beginIndex[, endIndex])
+
+`beginIndex` 以该索引（0为基数）开始提取原字符串中的字符；为负，则看作 `strLength + beginIndex`
+
+`endIndex`在该索引处结束提取字符串，省略参数则提取到字符串末尾；为负，则看作 `strLength + beginIndex`
+
+[实例](#按所给的时间格式输出指定的时间)
+```js
+new Date('2021').getFullYear().toString().slice(-2) // 21
+('0' + (new Date('2021-01').getMonth() + 1)).slice(-2) // 01
+```
+
 ### String.prottype.replace
 
 > str.replace(regexp|substr, newSubStr|function)
 
-regexp (pattern) 正则匹配，匹配内容被第二个参数的返回值替换
+`regexp` (pattern) 正则匹配，匹配内容被第二个参数的返回值替换
 
-substr (pattern) 一个将被 newSubStr 替换的 字符串,仅第一个匹配项被替换
+`substr` (pattern) 一个将被 newSubStr 替换的 字符串,仅第一个匹配项被替换
 
-newSubStr (replacement) 新字符串，可以内插特殊[变量名](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+`newSubStr` (replacement) 新字符串，可以内插特殊[变量名](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 
-function (replacement) 返回新字符串的函数，正则全局匹配会多次调用函数,如果正则有多个括号，则参数代表第n个括号匹配的字符串。
+`function` (replacement) 返回新字符串的函数，正则全局匹配会多次调用函数,如果正则有多个括号，则参数代表第n个括号匹配的字符串。
 
 ```js
  /**

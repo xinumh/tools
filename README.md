@@ -19,3 +19,8 @@ GitHub 上有趣、入门级的开源项目
 [Number.prototype.toString()](docs/手写/README.md#Number.prototype.toString())
 
 [获取url中的参数](docs/手写/README.md#获取url中的参数)
+
+[按所给的时间格式输出指定的时间](docs/手写/README.md#按所给的时间格式输出指定的时间)
+
+[正则-邮箱](docs/常见正则/README.md#isAvailableEmail)
+
