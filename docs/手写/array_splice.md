@@ -12,7 +12,7 @@ function insert (arr, item, index) {
 }
 ```
 
-## splice()
+## Array.prototype.splice()
 
 通过`删除或替换`现有元素或者`原地添加`新的元素来修改数组,并以数组形式返回被修改的内容。此方法会**改变原数组**
 
@@ -32,31 +32,26 @@ function insert (arr, item, index) {
 ### 从第 n 位插入 元素item
 ```js
 arr.splice(n, 0, item)
-// 
 ```
 
 ### 从第 n 位 删除m个元素，插入 元素item
 ```js
 arr.splice(n, m, item)
-// 
 ```
 
 ### 从第 n 位 删除m个元素
 ```js
 arr.splice(n, m)
-// 
 ```
 
 
 ### 从倒数第 n 位 删除m个元素
 ```js
 arr.splice(-n, m)
-// 
 ```
 
 
 ### 从第 n 位 删除所有元素
 ```js
 arr.splice(n)
-// 
 ```
