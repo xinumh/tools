@@ -18,8 +18,12 @@ function commonParentNode(oNode1, oNode2) {
     //    }
     //}
     if (oNode1 === oNode2) return oNode1
-    if(oNode1.parentNode) { return commonParentNode(oNode1.parentNode, oNode2) }
-    if(oNode2.parentNode) { return commonParentNode(oNode2.parentNode, oNode1) }
+    if(oNode1.parentNode) {
+        return commonParentNode(oNode1.parentNode, oNode2)
+    }
+    if(oNode2.parentNode) {
+        return commonParentNode(oNode2.parentNode, oNode1)
+    }
 }
 ```
 
