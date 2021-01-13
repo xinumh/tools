@@ -3,6 +3,7 @@
 ### 字符串转驼峰格式
 
 > css 中经常有类似 background-image 这种通过 - 连接的字符，通过 javascript 设置样式的时候需要将这种样式转换成 backgroundImage 驼峰格式，请完成此转换功能
+> 
 > 1. 以 - 为分隔符，将第二个起的非空单词首字母转为大写
 > 2. -webkit-border-image 转换后的结果为 webkitBorderImage
 
@@ -22,7 +23,9 @@ function cssStyle2DomStyle(sName) {
 ### 数组去重
 
 > 为 Array 对象添加一个去除重复项的方法
+> 
 > 输入： [false, true, undefined, null, NaN, 0, 1, {}, {}, 'a', 'a', NaN]
+> 
 > 输出： [false, true, undefined, null, NaN, 0, 1, {}, {}, 'a']
 
 ```js
@@ -53,24 +56,25 @@ Array.prototype.uniq = function () {
 > 封装函数 f，使 f 的 this 指向指定的对象
 
 ``` js
+// m-1
 function bindThis(f, oTarget) {
     return f.bind(oTarget)
-    //return function () {
-    //    return f.apply(oTarget, arguments)
-    //}
 }
+// m-2
+function bindThis(f, oTarget) {
+    return function () {
+       return f.apply(oTarget, arguments)
+    }
+}
+
 ```
 ### 查找两个节点的最近的共同父节点
 
 > 查找两个节点的最近的一个共同父节点，可以包括节点自身
 
 ```js
+// M-1
 function commonParentNode(oNode1, oNode2) {
-    //for(;oNode1;oNode1 = oNode1.parentNode) {
-    //    if(oNode1.contains(oNode2)) {
-    //        return oNode1
-    //    }
-    //}
     if (oNode1 === oNode2) return oNode1
     if(oNode1.parentNode) {
         return commonParentNode(oNode1.parentNode, oNode2)
@@ -79,11 +83,20 @@ function commonParentNode(oNode1, oNode2) {
         return commonParentNode(oNode2.parentNode, oNode1)
     }
 }
+// M-2
+function commonParentNode(oNode1, oNode2) {
+    for(;oNode1;oNode1 = oNode1.parentNode) {
+       if(oNode1.contains(oNode2)) {
+           return oNode1
+       }
+    }
+}
 ```
 
 ### 获取url中的参数
 
 > 获取 url 中的参数
+> 
 > 1. 指定参数名称，返回该参数的值 或者 空字符串
 > 2. 不指定参数名称，返回全部的参数对象 或者 {}
 > 3. 如果存在多个同名参数，则返回数组

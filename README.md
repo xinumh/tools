@@ -24,6 +24,8 @@ GitHub 上有趣、入门级的开源项目
 
 [Array.prototype.concat()](docs/手写/README.md#Array.prototype.concat())
 
+[Array.prototype.splice()](docs/手写/array_splice.md)
+
 [获取url中的参数](docs/手写/README.md#获取url中的参数)
 
 [按所给的时间格式输出指定的时间](docs/手写/README.md#按所给的时间格式输出指定的时间)
