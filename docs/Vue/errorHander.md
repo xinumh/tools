@@ -1,7 +1,11 @@
 # vue 异常捕获
 
-- errorHandler
-- unhandledrejection
+- [vue 异常捕获](#vue-异常捕获)
+    - [main.js](#mainjs)
+    - [axios 拦截](#axios-拦截)
+    - [业务代码](#业务代码)
+    - [errorHandler](#errorhandler)
+    - [unhandlerejection](#unhandlerejection)
 
 ### main.js
 
@@ -110,4 +114,69 @@ async getTableData () {
   this.total = total
 },
 
+```
+
+### errorHandler
+
+> 指定组件的渲染和观察期间未捕获错误的处理函数。
+> 这个处理函数被调用时，可获取错误信息和 Vue 实例。
+
+```js
+Vue.config.errorHandler = function (err, vm, info) {
+  // handle error
+  // `info` 是 Vue 特定的错误信息，比如错误所在的生命周期钩子
+  // 只在 2.2.0+ 可用, v-on handler  / render
+}
+```
+局部源码
+```js
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
+ */
+function globalHandleError (err, vm, info) {
+  if (config.errorHandler) {
+    try {
+      return config.errorHandler.call(null, err, vm, info)
+    } catch (e) {
+      // if the user intentionally throws the original error in the handler,
+      // do not log it twice
+      if (e !== err) {
+        logError(e, null, 'config.errorHandler');
+      }
+    }
+  }
+  logError(err, vm, info);
+}
+
+function logError (err, vm, info) {
+  {
+    warn(("Error in " + info + ": \"" + (err.toString()) + "\""), vm);
+  }
+  /* istanbul ignore else */
+  if ((inBrowser || inWeex) && typeof console !== 'undefined') {
+    console.error(err);
+  } else {
+    throw err
+  }
+}
+```
+
+### unhandlerejection
+
+> 当Promise 被 reject 且没有 reject 处理器的时候，会触发 `unhandledrejection` 事件。
+>
+> `unhandlerejection` 含有 `PromiseRejectionEvent` 和 `Event` 的属性和方法。
+
+默认情况下，会向控制台打印未处理的Promise rejections，可以通过添加程序来防止 `unhandledrejection`这种情况的发生，该程序还可以调用 `preventDefault`来取消该事件，从而防止事件冒泡。
+
+```js
+window.addEventListener('unhandledrejection', function (event) {
+  // ...您的代码可以处理未处理的拒绝...
+
+  // 防止默认处理（例如将错误输出到控制台）
+
+  event.preventDefault();
+});
 ```
