@@ -44,7 +44,7 @@ GitHub 上有趣、入门级的开源项目
 
 [爱默-在线视频剪辑](https://airmore.cn/online-video-editor)
 
-[稀缺资源](https://www.v2fy.com)
+[稀缺资源](https://github.com/zhaoolee/OnlineToolsBook)
 
 常用工具、优秀导航、创意资源、绿色软件、优秀博客
 
