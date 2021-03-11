@@ -4,7 +4,7 @@
 
 基于 Nodejs + eggjs + Mongodb 编写的内容管理系统。项目结构清晰、易于拓展
 
-[HelloGithub](hellogithub.com/)
+[HelloGithub](https://github.com/521xueweihan/HelloGitHub)
 
 GitHub 上有趣、入门级的开源项目
 
