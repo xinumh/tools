@@ -36,13 +36,9 @@ GitHub 上有趣、入门级的开源项目
 
 ### 常用工具
 
-[爱默-脑图](https://airmore.cn/online-mindmap)
+[爱默](https://airmore.cn)
 
-[爱默-流程图](https://airmore.cn/online-flowchart)
-
-[爱默-在线抠图](https://airmore.cn/remove-background-online)
-
-[爱默-在线视频剪辑](https://airmore.cn/online-video-editor)
+脑图、流程图、在线抠图、在线视频剪辑
 
 [稀缺资源](https://www.v2fy.com/)
 
