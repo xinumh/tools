@@ -1,3 +1,5 @@
+[toc]
+
 ## 精品项目
 
 [DoraCMS](https://github.com/doramart/DoraCMS)
