@@ -54,7 +54,6 @@ GitHub 上有趣、入门级的开源项目
 
 脑图、流程图、在线抠图、在线视频剪辑
 
-
 ## 图片
 
 - https://1x.com/photos
@@ -87,7 +86,7 @@ GitHub 上有趣、入门级的开源项目
 
 [Ghelper](http://googlehelper.net/)
 
-## 
+## 其他
 
 [在线生成 GitHub README.md 目录](https://sleepeatcode.com/ghtoc)
 
