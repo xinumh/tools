@@ -1,5 +1,3 @@
-# 手写
-
 ### 字符串转驼峰格式
 
 > css 中经常有类似 background-image 这种通过 - 连接的字符，通过 javascript 设置样式的时候需要将这种样式转换成 backgroundImage 驼峰格式，请完成此转换功能
@@ -150,48 +148,3 @@ formatDate(new Date(1409894060000), 'yyyy-MM-dd HH:mm:ss 星期w')
 // "2014-09-05 13:14:20 星期五"
 ```
 
-手写发布订阅模式
-
-模拟new操作符
-
-模拟实现Array.prototype.reduce
-
-throttle（节流）
-
-debounce（防抖）
-
-Promise
-
-箭头函数
-
-用函数实现useEffect功能
-
-数组扁平化
-
-数组去重
-
-类数组转化为数组
-
-深拷贝
-
-Array.prototype.filter()
-
-Array.prototype.map()
-
-Array.prototype.forEach()
-
-Array.prototype.reduce()
-
-Function.prototype.apply()
-
-Function.prototype.call()
-
-Function.prototype.bind()
-
-函数珂里化
-
-instanceof
-
-原型继承
-
-[参考地址](https://zhuanlan.zhihu.com/p/268821684)
