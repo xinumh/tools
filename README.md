@@ -138,3 +138,13 @@ instanceof
 原型继承
 
 # 源码学习
+
+# 电子书
+
+## WebGL
+[Three.js零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/Three.js/)
+
+[WebGL零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/WebGL/)
+
+> [郭老师的博客](http://www.yanhuangxueyuan.com/)
+
