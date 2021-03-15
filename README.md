@@ -51,6 +51,10 @@ GitHub 上有趣、入门级的开源项目
 
 # 常用工具
 
+## 录频-标注
+
+[screenity](https://github.com/alyssaxuu/screenity)
+
 ## 脑图
 
 [airmore.cn](https://airmore.cn)
