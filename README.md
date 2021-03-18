@@ -8,6 +8,7 @@
    * [其他](#其他)
 * [手写api](#手写api)
 * [源码学习](#源码学习)
+* [文章](#文章)
 * [电子书](#电子书)
    * [WebGL](#webgl)
 # 精品项目
@@ -146,6 +147,10 @@ instanceof
 原型继承
 
 # 源码学习
+
+# 文章
+
+[Taro 小程序开发大型实战（Taro2.x推荐）](https://mp.weixin.qq.com/s/psaWuq6MzwJwXdkhoga0Ag)
 
 # 电子书
 
