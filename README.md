@@ -27,6 +27,8 @@ GitHub 上有趣、入门级的开源项目
 
 [超赞网站](https://github.com/zhaoolee/SuperWeb)
 
+发现新网站，就像发现新大陆
+
 # 日常总结
 
 [数组去重](docs/Code/README.md#数组去重)
