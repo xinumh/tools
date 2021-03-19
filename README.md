@@ -25,6 +25,8 @@ GitHub 上有趣、入门级的开源项目
 
 常用工具、优秀导航、创意资源、绿色软件、优秀博客
 
+[超赞网站](https://github.com/zhaoolee/SuperWeb)
+
 # 日常总结
 
 [数组去重](docs/Code/README.md#数组去重)
