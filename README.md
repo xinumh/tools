@@ -5,7 +5,7 @@
 * [源码学习](#源码学习)
 * [文章](#文章)
 * [电子书](#电子书)
-   * [WebGL](#webgl)
+
 # 精品项目
 
 [DoraCMS](https://github.com/doramart/DoraCMS)
@@ -136,7 +136,6 @@ instanceof
 
 # 电子书
 
-## WebGL
 [Three.js零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/Three.js/)
 
 [WebGL零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/WebGL/)
