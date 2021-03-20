@@ -1,11 +1,6 @@
 * [精品项目](#精品项目)
 * [日常总结](#日常总结)
 * [常用工具](#常用工具)
-   * [录频-标注](#录频-标注)
-   * [脑图](#脑图)
-   * [图片](#图片)
-   * [上网助手](#上网助手)
-   * [其他](#其他)
 * [手写api](#手写api)
 * [源码学习](#源码学习)
 * [文章](#文章)
@@ -61,51 +56,30 @@ GitHub 上有趣、入门级的开源项目
 
 # 常用工具
 
-## 录频-标注
-
 [screenity](https://github.com/alyssaxuu/screenity)
 
-## 脑图
+录频-标注
 
 [airmore.cn](https://airmore.cn)
 
 脑图、流程图、在线抠图、在线视频剪辑
 
-## 图片
+[colorhunt](https://colorhunt.co/)
 
-- https://1x.com/photos
-- https://unsplash.com/
-- www.pexels.com
-- [pixabay.com](https://pixabay.com/)
-- [www.photock.jp](https://www.photock.jp/)
-- [www.pakutaso.com](https://www.pakutaso.com/)
-- [foodshot.co](https://foodshot.co)
-- [sozaing.com](https://sozaing.com)
-- [www.polayoutu.com/collections](https://www.polayoutu.com/collections)
-- [isorepublic.com](https://isorepublic.com)
-- [stokpic.com](https://stokpic.com)
-- [kaboompics.com](https://kaboompics.com)
-- [fancycrave.com](https://fancycrave.com)
-- [realisticshots.com](https://realisticshots.com)
-- [stocksnap.io](https://stocksnap.io)
-- [www.sozai-page.com](https://www.sozai-page.com)
-- [negativespace.co](https://negativespace.co)
-- [www.stockio.com](https://www.stockio.com)
-- [www.lifeofpix.com](https://www.lifeofpix.com)
-- [libreshot.com](https://libreshot.com)
-- [www.gratisography.com](https://www.gratisography.com)
-- [skitterphoto.com](https://skitterphoto.com)
-- [picjumbo.com](https://picjumbo.com)
+在线配色方案
+
+[1x.com-图片素材](https://1x.com/photos)
+[pexels-图片素材](www.pexels.com)
 
 > [原文链接](https://juejin.cn/post/6844904104150433799)
 
-## 上网助手
-
 [Ghelper](http://googlehelper.net/)
 
-## 其他
+chrome上网助手
 
-[在线生成 GitHub README.md 目录](https://sleepeatcode.com/ghtoc)
+[ghtoc](https://sleepeatcode.com/ghtoc)
+
+在线生成 GitHub README.md 目录
 
 
 # 手写api
