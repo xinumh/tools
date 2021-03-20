@@ -66,9 +66,7 @@ GitHub 上有趣、入门级的开源项目
 [colorhunt](https://colorhunt.co/)
 
 【图片素材】
-
-[1x.com](https://1x.com/photos)
-
+[1x.com](https://1x.com/photos)|
 [pexels](www.pexels.com)
 
 【chrome上网助手】
