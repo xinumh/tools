@@ -68,10 +68,10 @@ GitHub 上有趣、入门级的开源项目
 
 在线配色方案
 
-[1x.com-图片素材](https://1x.com/photos)
-[pexels-图片素材](www.pexels.com)
+[1x.com](https://1x.com/photos)
+[pexels](www.pexels.com)
 
-> [原文链接](https://juejin.cn/post/6844904104150433799)
+图片素材
 
 [Ghelper](http://googlehelper.net/)
 
