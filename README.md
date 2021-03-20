@@ -56,30 +56,25 @@ GitHub 上有趣、入门级的开源项目
 
 # 常用工具
 
-录频-标注
-
+【录频-标注】
 [screenity](https://github.com/alyssaxuu/screenity)
 
-脑图、流程图、在线抠图、在线视频剪辑
-
+【脑图、流程图、在线抠图、在线视频剪辑】
 [airmore.cn](https://airmore.cn)
 
-在线配色方案
-
+【在线配色方案】
 [colorhunt](https://colorhunt.co/)
 
-图片素材
+【图片素材】
 
 [1x.com](https://1x.com/photos)
 
 [pexels](www.pexels.com)
 
-chrome上网助手
-
+【chrome上网助手】
 [Ghelper](http://googlehelper.net/)
 
-在线生成 GitHub README.md 目录
-
+【在线生成 GitHub README.md 目录】
 [ghtoc](https://sleepeatcode.com/ghtoc)
 
 
