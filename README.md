@@ -56,30 +56,31 @@ GitHub 上有趣、入门级的开源项目
 
 # 常用工具
 
-[screenity](https://github.com/alyssaxuu/screenity)
-
 录频-标注
 
-[airmore.cn](https://airmore.cn)
+[screenity](https://github.com/alyssaxuu/screenity)
 
 脑图、流程图、在线抠图、在线视频剪辑
 
-[colorhunt](https://colorhunt.co/)
+[airmore.cn](https://airmore.cn)
 
 在线配色方案
 
-[1x.com](https://1x.com/photos)
-[pexels](www.pexels.com)
+[colorhunt](https://colorhunt.co/)
 
 图片素材
 
-[Ghelper](http://googlehelper.net/)
+[1x.com](https://1x.com/photos)
+
+[pexels](www.pexels.com)
 
 chrome上网助手
 
-[ghtoc](https://sleepeatcode.com/ghtoc)
+[Ghelper](http://googlehelper.net/)
 
 在线生成 GitHub README.md 目录
+
+[ghtoc](https://sleepeatcode.com/ghtoc)
 
 
 # 手写api
