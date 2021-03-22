@@ -131,6 +131,8 @@ instanceof
 
 [JavaScript 进阶问题列表](https://github.com/lydiahallie/javascript-questions)
 
+[33-js-concepts](https://github.com/stephentian/33-js-concepts)
+
 # 电子书
 
 [Three.js零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/Three.js/)
