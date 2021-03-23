@@ -137,6 +137,8 @@ instanceof
 
 [30secondsofcode](https://www.30secondsofcode.org/)
 
+[《Chrome插件开发全攻略》](https://github.com/sxei/chrome-plugin-demo)
+
 # 电子书
 
 [Three.js零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/Three.js/)
