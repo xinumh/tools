@@ -54,6 +54,8 @@ GitHub 上有趣、入门级的开源项目
 
 [vue 异常捕获](docs/Vue/errorHander.md)
 
+[代码统计](docs/Code/code_counter.md)
+
 # 常用工具
 
 【录频-标注】
