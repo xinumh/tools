@@ -28,6 +28,10 @@ GitHub 上有趣、入门级的开源项目
 
 无广告，无需下载app，无需登陆注册，打开网页，即可浏览全网热点～
 
+[LeanCloud](https://leancloud.cn/docs/index.html)
+
+技术文档、知识库、视频公开、各种小demo
+
 # 日常总结
 
 [数组去重](docs/Code/README.md#数组去重)
