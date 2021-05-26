@@ -82,6 +82,8 @@ GitHub 上有趣、入门级的开源项目
 【在线生成 GitHub README.md 目录】
 [ghtoc](https://sleepeatcode.com/ghtoc)
 
+【UI每日灵感】
+[collectui](https://collectui.com/)
 
 # 手写api
 
