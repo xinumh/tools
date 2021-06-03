@@ -85,6 +85,9 @@ GitHub 上有趣、入门级的开源项目
 【UI每日灵感】
 [collectui](https://collectui.com/)
 
+【logo在线生成】
+[logosc](https://www.logosc.cn/)
+
 # 手写api
 
 手写发布订阅模式
