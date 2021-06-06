@@ -32,6 +32,10 @@ GitHub 上有趣、入门级的开源项目
 
 技术文档、知识库、视频公开、各种小demo
 
+[30secondsofcode](https://www.30secondsofcode.org/)
+
+特色系列：JavaScript、CSS、React Hooks、算法、Python、Git
+
 # 日常总结
 
 [数组去重](docs/Code/README.md#数组去重)
