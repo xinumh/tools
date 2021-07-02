@@ -156,6 +156,8 @@ instanceof
 
 # 电子书
 
+[深入浅出 Webpack](http://webpack.wuhaolin.cn/)
+
 [Three.js零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/Three.js/)
 
 [WebGL零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/WebGL/)
