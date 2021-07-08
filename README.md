@@ -1,7 +1,6 @@
 * [精品项目](#精品项目)
 * [日常总结](#日常总结)
 * [常用工具](#常用工具)
-* [手写api](#手写api)
 * [源码学习](#源码学习)
 * [文章](#文章)
 * [电子书](#电子书)
@@ -90,6 +89,8 @@ GitHub 上有趣、入门级的开源项目
 [1x.com](https://1x.com/photos)
 |
 [pexels](https://www.pexels.com)
+|
+[wallhaven](https://wallhaven.cc/)
 
 【chrome上网助手】
 [Ghelper](http://googlehelper.net/)
@@ -103,51 +104,6 @@ GitHub 上有趣、入门级的开源项目
 【logo在线生成】
 [logosc](https://www.logosc.cn/)
 
-# 手写api
-
-手写发布订阅模式
-
-模拟new操作符
-
-模拟实现Array.prototype.reduce
-
-throttle（节流）
-
-debounce（防抖）
-
-Promise
-
-箭头函数
-
-用函数实现useEffect功能
-
-数组扁平化
-
-数组去重
-
-类数组转化为数组
-
-深拷贝
-
-Array.prototype.filter()
-
-Array.prototype.map()
-
-Array.prototype.forEach()
-
-Array.prototype.reduce()
-
-Function.prototype.apply()
-
-Function.prototype.call()
-
-Function.prototype.bind()
-
-函数珂里化
-
-instanceof
-
-原型继承
 
 # 源码学习
 
