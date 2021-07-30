@@ -133,3 +133,5 @@ GitHub 上有趣、入门级的开源项目
 
 > [郭老师的博客](http://www.yanhuangxueyuan.com/)
 
+[清华大学：经济学原理（全77讲）](https://www.bilibili.com/video/BV1Nb4y1d7AB?p=4)
+
