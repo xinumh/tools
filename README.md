@@ -125,7 +125,8 @@ GitHub 上有趣、入门级的开源项目
 
 [《Chrome插件开发全攻略》](https://github.com/sxei/chrome-plugin-demo)
 
-[usehooks](https://usehooks.com/)
+[usehooks](https://usehooks.com/) | 
+[usehooks-typescript](https://usehooks-typescript.com/)
 
 # 电子书
 
