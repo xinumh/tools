@@ -31,10 +31,6 @@ GitHub 上有趣、入门级的开源项目
 
 技术文档、知识库、视频公开、各种小demo
 
-[30secondsofcode](https://www.30secondsofcode.org/)
-
-特色系列：JavaScript、CSS、React Hooks、算法、Python、Git
-
 [码力全开](https://www.maliquankai.com/)
 
 产品/设计师/独立开发者的资源库
@@ -43,9 +39,6 @@ GitHub 上有趣、入门级的开源项目
 
 代码转图像的工具
 
-[smashingmagazine](https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/)
-
-《众妙之门》(The Smashing Book)系列图书是世界Web行业内享有知名度和影响力的刊物,已经在专业领域获得良好的信誉
 
 
 
@@ -127,14 +120,14 @@ GitHub 上有趣、入门级的开源项目
 
 [33-js-concepts](https://github.com/stephentian/33-js-concepts)
 
-[30secondsofcode](https://www.30secondsofcode.org/)
-
 [《Chrome插件开发全攻略》](https://github.com/sxei/chrome-plugin-demo)
 
 [usehooks](https://usehooks.com/) | 
 [usehooks-typescript](https://usehooks-typescript.com/)
 
+[30secondsofcode](https://www.30secondsofcode.org/)
 
+特色系列：JavaScript、CSS、React Hooks、算法、Python、Git
 
 # 电子书
 
@@ -148,3 +141,6 @@ GitHub 上有趣、入门级的开源项目
 
 [清华大学：经济学原理（全77讲）](https://www.bilibili.com/video/BV1Nb4y1d7AB?p=4)
 
+[smashingmagazine](https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/)
+
+《众妙之门》(The Smashing Book)系列图书是世界Web行业内享有知名度和影响力的刊物,已经在专业领域获得良好的信誉
