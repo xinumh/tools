@@ -40,9 +40,7 @@ GitHub 上有趣、入门级的开源项目
 
 代码转图像的工具
 
-[csscoco](https://csscoco.com/inspiration/#/)
 
-学习 CSS 的灵感
 
 # 日常总结
 
@@ -134,6 +132,10 @@ GitHub 上有趣、入门级的开源项目
 [30secondsofcode](https://www.30secondsofcode.org/)
 
 特色系列：JavaScript、CSS、React Hooks、算法、Python、Git
+
+[csscoco](https://csscoco.com/inspiration/#/)
+
+学习 CSS 的灵感
 
 # 电子书
 
