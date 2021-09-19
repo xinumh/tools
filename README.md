@@ -5,6 +5,19 @@
 * [文章](#文章)
 * [电子书](#电子书)
 
+
+# TODO
+
+《javascript面向对象编程指南》
+
+《正则指引》
+
+《基于MVC的JavaScript Web富应用开发》
+
+《javascript函数式编程》
+
+《javascript框架设计》
+
 # 精品项目
 
 [DoraCMS](https://github.com/doramart/DoraCMS)
