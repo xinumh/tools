@@ -36,10 +36,6 @@ GitHub 上有趣、入门级的开源项目
 
 产品/设计师/独立开发者的资源库
 
-[carbon](https://carbon.now.sh/)
-
-代码转图像的工具
-
 
 
 # 日常总结
@@ -115,6 +111,12 @@ GitHub 上有趣、入门级的开源项目
 
 【正则】
 [ihateregex.io](https://ihateregex.io/)
+
+【代码转图片】
+[carbon](https://carbon.now.sh/)
+
+
+
 
 # 源码学习
 
