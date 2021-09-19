@@ -113,6 +113,8 @@ GitHub 上有趣、入门级的开源项目
 【100 CSS 动画】
 [dev.t](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
 
+【正则】
+[ihateregex.io](https://ihateregex.io/)
 
 # 源码学习
 
