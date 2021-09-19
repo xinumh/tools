@@ -125,7 +125,7 @@ GitHub 上有趣、入门级的开源项目
 
 [33-js-concepts](https://github.com/stephentian/33-js-concepts)
 
-[《Chrome插件开发全攻略》](https://github.com/sxei/chrome-plugin-demo)
+[Chrome插件开发全攻略](https://github.com/sxei/chrome-plugin-demo)
 
 [usehooks](https://usehooks.com/) | 
 [usehooks-typescript](https://usehooks-typescript.com/)
@@ -140,15 +140,15 @@ GitHub 上有趣、入门级的开源项目
 
 # 电子书
 
-[深入浅出 Webpack](http://webpack.wuhaolin.cn/)
+[《深入浅出 Webpack》](http://webpack.wuhaolin.cn/)
 
-[Three.js零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/Three.js/)
+[《Three.js零基础入门教程(郭隆邦)》](http://www.yanhuangxueyuan.com/Three.js/)
 
-[WebGL零基础入门教程(郭隆邦)](http://www.yanhuangxueyuan.com/WebGL/)
+[《WebGL零基础入门教程(郭隆邦)》](http://www.yanhuangxueyuan.com/WebGL/)
 
 > [郭老师的博客](http://www.yanhuangxueyuan.com/)
 
-[清华大学：经济学原理（全77讲）](https://www.bilibili.com/video/BV1Nb4y1d7AB?p=4)
+[《清华大学：经济学原理（全77讲）》](https://www.bilibili.com/video/BV1Nb4y1d7AB?p=4)
 
 [smashingmagazine](https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/)
 
