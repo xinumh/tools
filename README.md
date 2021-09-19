@@ -65,9 +65,7 @@ GitHub 上有趣、入门级的开源项目
 
 [代码统计](docs/Code/code_counter.md)
 
-[JS 代码整洁](https://github.com/ryanmcdermott/clean-code-javascript?utm_source=gold_browser_extension)
 
-[React-Typescript](https://react-typescript-cheatsheet.netlify.app/)
 
 [设计模式史](docs/Js/设计模式.md)
 
@@ -134,11 +132,11 @@ GitHub 上有趣、入门级的开源项目
 
 [30secondsofcode](https://www.30secondsofcode.org/)
 
-特色系列：JavaScript、CSS、React Hooks、算法、Python、Git
+[csscoco 学习CSS的灵感](https://csscoco.com/inspiration/#/)
 
-[csscoco](https://csscoco.com/inspiration/#/)
+[JS 代码整洁](https://github.com/ryanmcdermott/clean-code-javascript?utm_source=gold_browser_extension)
 
-学习 CSS 的灵感
+[React-Typescript](https://react-typescript-cheatsheet.netlify.app/)
 
 # 电子书
 
