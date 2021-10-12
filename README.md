@@ -82,6 +82,8 @@ GitHub 上有趣、入门级的开源项目
 
 [设计模式史](docs/Js/设计模式.md)
 
+[重构](docs/Js/重构.md)
+
 [01-虚拟代理实现图片预加载](https://github.com/xinumh/js-demo/blob/master/01-%E8%99%9A%E6%8B%9F%E4%BB%A3%E7%90%86%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E9%A2%84%E5%8A%A0%E8%BD%BD.html)
 
 [02-函数缓存](https://github.com/xinumh/js-demo/blob/master/02-%E7%BC%93%E5%AD%98.html)
