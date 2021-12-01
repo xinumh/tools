@@ -48,9 +48,6 @@ GitHub 上有趣、入门级的开源项目
 
 产品/设计师/独立开发者的资源库
 
-[TweenMax.js-动画插件](https://www.tweenmax.com.cn/index.html)
-
-适用于移动端和现代互联网的超高性能专业级动画插件
 
 # 日常总结
 
@@ -131,7 +128,9 @@ GitHub 上有趣、入门级的开源项目
 【代码转图片】
 [carbon](https://carbon.now.sh/)
 
+[TweenMax.js-动画插件](https://www.tweenmax.com.cn/index.html)
 
+适用于移动端和现代互联网的超高性能专业级动画插件
 
 
 # 文章
