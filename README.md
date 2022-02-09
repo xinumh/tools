@@ -161,6 +161,8 @@ GitHub 上有趣、入门级的开源项目
 
 [《深入浅出 Webpack》](http://webpack.wuhaolin.cn/)
 
+[cs-books-pdf](https://github.com/wybks2/cs-books-pdf)
+
 [《Three.js零基础入门教程(郭隆邦)》](http://www.yanhuangxueyuan.com/Three.js/)
 
 [《WebGL零基础入门教程(郭隆邦)》](http://www.yanhuangxueyuan.com/WebGL/)[郭老师的博客](http://www.yanhuangxueyuan.com/)
