@@ -134,7 +134,8 @@ GitHub 上有趣、入门级的开源项目
 [tldraw.com](https://www.tldraw.com/)
 小而美的画图工具
 
-
+[heti](https://sivan.github.io/heti/)
+专为中文网页内容设计的排版样式增强
 
 # 文章
 
