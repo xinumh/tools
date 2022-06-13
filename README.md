@@ -5,7 +5,7 @@
 * [文章](#文章)
 * [电子书](#电子书)
 
-
+# 精品项目
 名称 | 简述 
 ---- | ----- 
 [DoraCMS](https://github.com/doramart/DoraCMS) | 基于 Nodejs + eggjs + Mongodb 编写的内容管理系统。项目结构清晰、易于拓展。
@@ -14,7 +14,7 @@
 [超赞网站](https://github.com/zhaoolee/SuperWeb) | 发现新网站，就像发现新大陆。
 [今日热点](https://tophub.today/) & [摸鱼](https://mo.fish/) | 无广告，无需下载app，无需登陆注册，打开网页，即可浏览全网热点。
 
-
+# 常用工具
 名称 | 简述
 ---- | -----
 [screenity](https://github.com/alyssaxuu/screenity) | 【录频-标注】
@@ -44,36 +44,6 @@
 《javascript函数式编程》
 
 《javascript框架设计》
-
-# 精品项目
-
-[DoraCMS](https://github.com/doramart/DoraCMS)
-
-基于 Nodejs + eggjs + Mongodb 编写的内容管理系统。项目结构清晰、易于拓展
-
-[HelloGithub](https://github.com/521xueweihan/HelloGitHub)
-
-GitHub 上有趣、入门级的开源项目
-
-[www.v2fy.com](https://www.v2fy.com/)
-
-常用工具、优秀导航、创意资源、绿色软件、优秀博客
-
-[超赞网站](https://github.com/zhaoolee/SuperWeb)
-
-发现新网站，就像发现新大陆
-
-[今日热点](https://tophub.today/) | [摸鱼](https://mo.fish/)
-
-无广告，无需下载app，无需登陆注册，打开网页，即可浏览全网热点～
-
-[LeanCloud](https://leancloud.cn/docs/index.html)
-
-技术文档、知识库、视频公开、各种小demo
-
-[码力全开](https://www.maliquankai.com/)
-
-产品/设计师/独立开发者的资源库
 
 
 # 日常总结
@@ -114,57 +84,6 @@ GitHub 上有趣、入门级的开源项目
 
 [02-函数缓存](https://github.com/xinumh/js-demo/blob/master/02-%E7%BC%93%E5%AD%98.html)
 
-# 常用工具
-
-【录频-标注】
-[screenity](https://github.com/alyssaxuu/screenity)
-
-【脑图、流程图、在线抠图、在线视频剪辑】
-[airmore.cn](https://airmore.cn)
-
-【在线配色方案】
-[colorhunt](https://colorhunt.co/)
-
-【图片素材】
-[1x.com](https://1x.com/photos)
-|
-[pexels](https://www.pexels.com)
-|
-[wallhaven](https://wallhaven.cc/)
-
-【chrome上网助手】
-[Ghelper](http://googlehelper.net/)
-
-【在线生成 GitHub README.md 目录】
-[ghtoc](https://sleepeatcode.com/ghtoc)
-
-[开发者武器库](https://devtool.tech/)
-
-【UI每日灵感】
-[collectui](https://collectui.com/)
-
-【logo在线生成】
-[logosc](https://www.logosc.cn/)
-
-【100 CSS 动画】
-[dev.t](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
-|
-[Animista](https://animista.net/)
-
-【正则】
-[ihateregex.io](https://ihateregex.io/)
-
-【代码转图片】
-[carbon](https://carbon.now.sh/)
-
-[TweenMax.js-动画插件](https://www.tweenmax.com.cn/index.html)
-适用于移动端和现代互联网的超高性能专业级动画插件
-
-[tldraw.com](https://www.tldraw.com/)
-小而美的画图工具
-
-[heti](https://sivan.github.io/heti/)
-专为中文网页内容设计的排版样式增强
 
 # 文章
 
