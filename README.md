@@ -37,6 +37,7 @@
 [33-js-concepts](https://github.com/stephentian/33-js-concepts) | 【33-js-concepts】
 [csscoco](https://csscoco.com/inspiration/#/) | 【学习CSS的灵感】
 [React-Typescript](https://react-typescript-cheatsheet.netlify.app/) | 【React TypeScript】
+[Loading 动画](https://loading.io/)
 
 # 日常总结
 
