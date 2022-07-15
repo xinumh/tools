@@ -1,13 +1,13 @@
 
 名称 | 简述 
 ---- | ----- 
-[趣导航](https://www.qssily.com/) | 各种工具、资源
+[趣导航](https://www.qssily.com/) | 【资源导航】
+[MJJ](https://www.mjjloc.com/?ivk_sa=1024320u) | 【资源导航】
 [DoraCMS](https://github.com/doramart/DoraCMS) | 基于 Nodejs + eggjs + Mongodb 编写的内容管理系统。项目结构清晰、易于拓展。
 [HelloGithub](https://github.com/521xueweihan/HelloGitHub) | GitHub 上有趣、入门级的开源项目。
 [www.v2fy.com](https://www.v2fy.com/) | 常用工具、优秀导航、创意资源、绿色软件、优秀博客。
 [超赞网站](https://github.com/zhaoolee/SuperWeb) | 发现新网站，就像发现新大陆。
 [今日热点](https://tophub.today/) & [摸鱼](https://mo.fish/) | 无广告，无需下载app，无需登陆注册，打开网页，即可浏览全网热点。
-[MJJ](https://www.mjjloc.com/?ivk_sa=1024320u) | 资源导航
 [screenity](https://github.com/alyssaxuu/screenity) | 【录频-标注】
 [airmore.cn](https://airmore.cn) |【脑图、流程图、在线抠图、在线视频剪辑】
 [colorhunt](https://colorhunt.co/) | 【在线配色方案】
