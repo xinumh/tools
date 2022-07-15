@@ -28,6 +28,6 @@
 [React-Typescript](https://react-typescript-cheatsheet.netlify.app/) | 【React TypeScript】
 [Loading 动画](https://loading.io/) | 【应用 Loading】
 [udemy](https://www.udemy.com/) | 【学习资源】
-[Type Challenges]() | 【Typescript Types 挑战】
+[Type Challenges](https://github.com/type-challenges) | 【Typescript Types 挑战】
 
 
