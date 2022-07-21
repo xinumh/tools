@@ -37,4 +37,4 @@
 
 名称 | 简述 
 ---- | -----
-[gz-yami](https://github.com/gz-yami/mall4j)【电商商城PC、小程序、vue后台、SpringBoot】
+[gz-yami](https://github.com/gz-yami/mall4j) | 【电商商城PC、小程序、vue后台、SpringBoot】
