@@ -1,4 +1,6 @@
 
+## 资源工具
+
 名称 | 简述 
 ---- | ----- 
 [趣导航](https://www.qssily.com/) | 【资源导航】
@@ -31,4 +33,8 @@
 [Type Challenges](https://github.com/type-challenges) | 【Typescript Types 挑战】
 [uiverse.io](https://uiverse.io/) | 【UI元素】
 
+## 项目demo
 
+名称 | 简述 
+---- | -----
+[gz-yami](https://github.com/gz-yami/mall4j)【电商商城PC、小程序、vue后台、SpringBoot】
