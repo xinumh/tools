@@ -1,3 +1,0 @@
-demos
-
-github.dev
