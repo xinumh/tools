@@ -38,3 +38,7 @@
 名称 | 简述 
 ---- | -----
 [gz-yami](https://github.com/gz-yami/mall4j) | 【电商商城PC、小程序、vue后台、SpringBoot】
+
+## 问题清单
+
+[ ]React 组件中多个倒计时如何管理？如：多商品抢购倒计时问题
