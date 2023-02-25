@@ -34,6 +34,7 @@
 [uiverse.io](https://uiverse.io/) | 【UI元素】
 [reposweeper](https://reposweeper.com) | 【批量管理Github Repo】
 [public-apis](http://public-apis.org/) | 【apis】
+[chrome-plugin-demo](https://github.com/xinumh/chrome-plugin-demo) |【Chrome插件开发全攻略】
 
 
 ## 项目demo
