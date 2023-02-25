@@ -32,6 +32,8 @@
 [udemy](https://www.udemy.com/) | 【学习资源】
 [Type Challenges](https://github.com/type-challenges) | 【Typescript Types 挑战】
 [uiverse.io](https://uiverse.io/) | 【UI元素】
+[reposweeper](https://reposweeper.com) | 【批量管理Github Repo】
+
 
 ## 项目demo
 
