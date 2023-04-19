@@ -36,6 +36,7 @@
 [public-apis](http://public-apis.org/) | 【apis】
 [chrome-plugin-demo](https://github.com/xinumh/chrome-plugin-demo) |【Chrome插件开发全攻略】
 [patterns.dev](https://www.patterns.dev/)|【JavaScript和React构建功能强大的Web应用程序的组件模式】
+[web.dev/patterns](https://web.dev/patterns/)|【代码片段的集合，可帮助您优化Web项目】
 
 
 
