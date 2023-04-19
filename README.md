@@ -35,13 +35,9 @@
 [reposweeper](https://reposweeper.com) | 【批量管理Github Repo】
 [public-apis](http://public-apis.org/) | 【apis】
 [chrome-plugin-demo](https://github.com/xinumh/chrome-plugin-demo) |【Chrome插件开发全攻略】
+[patterns.dev](https://www.patterns.dev/)【JavaScript和React构建功能强大的Web应用程序的组件模式】
 
 
-## 项目demo
-
-名称 | 简述 
----- | -----
-[gz-yami](https://github.com/gz-yami/mall4j) | 【电商商城PC、小程序、vue后台、SpringBoot】
 
 ## 阅读清单
 
